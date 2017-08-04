@@ -1,0 +1,257 @@
+{
+    "status": "200",
+    "data": {
+        "major": [
+            {
+                "name": "android",
+                "semester": [
+                    {
+                        "years_number": "1",
+                        "kecheng": [
+                            {
+                                "name": "计算机应用基础"
+                            },
+                            {
+                                "name": "移动互联网概念"
+                            },
+                            {
+                                "name": "HTML&CSS基础"
+                            },
+                            {
+                                "name": "JAVA基础"
+                            },
+                            {
+                                "name": "项目实训一"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "2",
+                        "kecheng": [
+                            {
+                                "name": "JAVA程序设计进阶"
+                            },
+                            {
+                                "name": "JAVA程序设计高级"
+                            },
+                            {
+                                "name": "ANDROID环境配置及页面重构"
+                            },
+                            {
+                                "name": "ANDROID核心组件"
+                            },
+                            {
+                                "name": "项目实训二"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "3",
+                        "kecheng": [
+                            {
+                                "name": "ANDROID系统功能"
+                            },
+                            {
+                                "name": "ANDROID数据处理"
+                            },
+                            {
+                                "name": "ANDROID网络通信"
+                            },
+                            {
+                                "name": "ANDROID混合编程"
+                            },
+                            {
+                                "name": "项目实训三"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "4",
+                        "kecheng": [
+                            {
+                                "name": "ANDROID开源框架"
+                            },
+                            {
+                                "name": "ANDROID三方SDK"
+                            },
+                            {
+                                "name": "ANDROID自定义控件"
+                            },
+                            {
+                                "name": "毕业设计"
+                            },
+                            {
+                                "name": "企业实习实训"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "5",
+                        "kecheng": [
+                            {
+                                "name": "JAVA程序设计中级"
+                            },
+                            {
+                                "name": "JAVA程序设计高级"
+                            },
+                            {
+                                "name": "ANDROID环境配置及界面重构"
+                            },
+                            {
+                                "name": "PM基础"
+                            },
+                            {
+                                "name": "校内实习实训"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "6",
+                        "kecheng": [
+                            {
+                                "name": "ANDROID项目实训一"
+                            },
+                            {
+                                "name": "ANDROID项目实训二"
+                            },
+                            {
+                                "name": "毕业设计"
+                            },
+                            {
+                                "name": "毕业论文"
+                            },
+                            {
+                                "name": "企业实习实训"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "h5",
+                "semester": [
+                    {
+                        "years_number": "1",
+                        "kecheng": [
+                            {
+                                "name": "计算机应用基础"
+                            },
+                            {
+                                "name": "移动互联网概念"
+                            },
+                            {
+                                "name": "HTML&CSS基础"
+                            },
+                            {
+                                "name": "JAVA程序设计基础"
+                            },
+                            {
+                                "name": "项目实训一"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "2",
+                        "kecheng": [
+                            {
+                                "name": "原生JS"
+                            },
+                            {
+                                "name": "AJAX与后端开发"
+                            },
+                            {
+                                "name": "jQuery基础"
+                            },
+                            {
+                                "name": "jQuery进阶"
+                            },
+                            {
+                                "name": "项目实训二"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "3",
+                        "kecheng": [
+                            {
+                                "name": "前端工程化与模块化"
+                            },
+                            {
+                                "name": "H5+CSS3基础"
+                            },
+                            {
+                                "name": "H5+CSS3进阶"
+                            },
+                            {
+                                "name": "H5+CSS3+原生JS开发"
+                            },
+                            {
+                                "name": "项目实训三"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "4",
+                        "kecheng": [
+                            {
+                                "name": "BootStrap框架开发"
+                            },
+                            {
+                                "name": "AngularJS框架开发"
+                            },
+                            {
+                                "name": "微信场景与小程序应用开发"
+                            },
+                            {
+                                "name": "毕业设计"
+                            },
+                            {
+                                "name": "企业实习实训"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "5",
+                        "kecheng": [
+                            {
+                                "name": "ReactJS框架开发"
+                            },
+                            {
+                                "name": "Ionic框架开发"
+                            },
+                            {
+                                "name": "webAPP混合开发"
+                            },
+                            {
+                                "name": "PM基础"
+                            },
+                            {
+                                "name": "校内实习实训"
+                            }
+                        ]
+                    },
+                    {
+                        "years_number": "6",
+                        "kecheng": [
+                            {
+                                "name": "JS库+H5+CSS3开发"
+                            },
+                            {
+                                "name": "H5项目实训二"
+                            },
+                            {
+                                "name": "毕业设计"
+                            },
+                            {
+                                "name": "毕业论文"
+                            },
+                            {
+                                "name": "企业实习实训"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
