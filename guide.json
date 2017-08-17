@@ -1,10 +1,4 @@
 {
     "status": 200,
-    "data": {
-        "guidepic": [
-            "http://p5.so.qhimgs1.com/bdr/_240_/t01312b0501c295ac9b.jpg",
-            "http://p3.so.qhimgs1.com/bdr/_240_/t01f572e39dd47b8d43.jpg",
-            "http://p2.so.qhmsg.com/bdr/_240_/t0185f44e2a71464f37.jpg"
-        ]
-    }
+    "data": "数据传递成功"
 }
